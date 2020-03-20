@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42e89601-4b1c-4516-a6e3-4ecdb7357d28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZC4naZlay0ZfzPOukC4QVQjS4X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main" />
+      <recent name="Main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.myname">
+    <configuration name="Nameplease" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nameplease" />
+      <module name="Whatsyourname" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneToTen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.OneToTen" />
+      <module name="Whatsyourname" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TenToOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.TenToOne" />
+      <module name="Whatsyourname" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroToTwenty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.ZeroToTwenty" />
+      <module name="Whatsyourname" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myname" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OneToFive.myname" />
+      <module name="Whatsyourname" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OneToFive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.myname" />
+        <item itemvalue="Application.TenToOne" />
+        <item itemvalue="Application.ZeroToTwenty" />
+        <item itemvalue="Application.OneToTen" />
+        <item itemvalue="Application.Nameplease" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42e89601-4b1c-4516-a6e3-4ecdb7357d28" name="Default Changelist" comment="" />
+      <created>1584329909107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584329909107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="203" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584415826224">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="203" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1584415826224" />
+    <state width="618" height="163" key="GridCell.Tab.0.bottom" timestamp="1584537189834">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584537189834" />
+    <state width="618" height="163" key="GridCell.Tab.0.center" timestamp="1584537189834">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584537189834" />
+    <state width="618" height="163" key="GridCell.Tab.0.left" timestamp="1584537189834">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584537189834" />
+    <state width="618" height="163" key="GridCell.Tab.0.right" timestamp="1584537189834">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584537189834" />
+    <state x="342" y="0" key="Maven.ArtifactSearchDialog" timestamp="1584384483660">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="342" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1584384483660" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1584383705071">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584383705071" />
+    <state x="903" y="237" key="chooseDestDirectoryDialog" timestamp="1584380613929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="903" y="237" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1584380613929" />
+    <state x="387" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1584454321239">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="387" y="218" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584454321239" />
+    <state x="181" y="72" key="new project wizard" timestamp="1584537143350">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="181" y="72" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584537143350" />
+    <state x="215" y="173" key="run.anything.popup" timestamp="1584392330688">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="215" y="173" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1584392330688" />
+  </component>
+</project>
