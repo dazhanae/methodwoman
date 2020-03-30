@@ -9,7 +9,8 @@ public class ZeroToTwenty {
             int number;
 
             System.out.print("Please enter a number between 1 and 20: ");
-        Scanner scan = new Scanner();
+        Scanner scan;
+        scan = new Scanner();
         number = scan.nextInt();
 
             while (number < 1 || number > 20) {
@@ -19,9 +20,7 @@ public class ZeroToTwenty {
 
             for (int i = 1; i <= number; i++) {
                 if (i % 2 == 0) {
-                } else {
-                    System.out.print(i + " ");
-                }
+                } else System.out.print(i + " ");
 
         }
     }

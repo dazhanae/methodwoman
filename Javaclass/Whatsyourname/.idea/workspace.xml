@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42e89601-4b1c-4516-a6e3-4ecdb7357d28" name="Default Changelist" comment="" />
+    <list default="true" id="42e89601-4b1c-4516-a6e3-4ecdb7357d28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Whats your name/src/main/java/.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weekonedayoneproject/src/main/java/loanQualifications/.idea/loanQualifications.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/ZeroToTwenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice/ZeroToTwenty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Whatsyourname.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java hw" beforeDir="false" afterPath="$PROJECT_DIR$/../java hw" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZC4naZlay0ZfzPOukC4QVQjS4X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,7 +42,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../March20/src/main/java/Numeros.java" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -38,14 +51,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="main" />
       <recent name="Main" />
+      <recent name="main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.myname">
-    <configuration name="Nameplease" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nameplease" />
-      <module name="Whatsyourname" />
+  <component name="RunManager" selected="Application.Numeros">
+    <configuration name="Numeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numeross" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,13 +114,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.myname" />
+      <item itemvalue="Application.Numeros" />
+      <item itemvalue="Application.OneToTen" />
+      <item itemvalue="Application.TenToOne" />
+      <item itemvalue="Application.ZeroToTwenty" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Numeros" />
         <item itemvalue="Application.myname" />
-        <item itemvalue="Application.TenToOne" />
         <item itemvalue="Application.ZeroToTwenty" />
+        <item itemvalue="Application.TenToOne" />
         <item itemvalue="Application.OneToTen" />
-        <item itemvalue="Application.Nameplease" />
       </list>
     </recent_temporary>
   </component>
@@ -126,10 +145,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="360" y="0" width="575" height="680" key="#Numeros" timestamp="1584976086097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="0" width="575" height="680" key="#Numeros/0.0.1280.680@0.0.1280.680" timestamp="1584976086097" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584976674271">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1584976674271" />
     <state x="399" y="203" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584415826224">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="399" y="203" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1584415826224" />
+    <state x="398" y="179" key="FileChooserDialogImpl" timestamp="1584977201452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="398" y="179" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584977201452" />
     <state width="618" height="163" key="GridCell.Tab.0.bottom" timestamp="1584537189834">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -150,22 +181,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="342" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1584384483660" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1584383705071">
+    <state x="121" y="0" key="SettingsEditor" timestamp="1584965724063">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584383705071" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584965724063" />
     <state x="903" y="237" key="chooseDestDirectoryDialog" timestamp="1584380613929">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="903" y="237" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1584380613929" />
-    <state x="387" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1584454321239">
+    <state x="387" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1584965392363">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="387" y="218" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584454321239" />
-    <state x="181" y="72" key="new project wizard" timestamp="1584537143350">
+    <state x="387" y="218" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584965392363" />
+    <state x="181" y="72" key="new project wizard" timestamp="1584977239298">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="181" y="72" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584537143350" />
+    <state x="181" y="72" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584977239298" />
     <state x="215" y="173" key="run.anything.popup" timestamp="1584392330688">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
