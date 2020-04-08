@@ -1,0 +1,36 @@
+package Crashcourse;
+
+public class Person {
+
+    private String name;
+    private int age;
+
+    public Person(){
+    }
+
+    public Person(int age) {
+        this.age = age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public String wishHappyBirthdayNextYear() {
+        return "Happy birthday" + name + " next year you'll be " + (age+1) + " years old" ;
+    }
+}
+
+
