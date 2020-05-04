@@ -1,18 +1,18 @@
-package Crashcourse;
+package Programs;
 
 public class Person {
 
     private String name;
     private int age;
+    private String gender;
 
     public Person(){
+        System.out.println("In Person Default constructor");
     }
 
-    public Person(int age) {
-        this.age = age;
-    }
 
-    public String getName() { return name;
+    public String getName() {
+        return name;
     }
 
     public void setName(String name) {
@@ -27,9 +27,11 @@ public class Person {
         this.age = age;
     }
 
-    public String wishHappyBirthdayNextYear() {
-        return "Happy birthday" + name + " next year you'll be " + (age+1) + " years old" ;
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
     }
 }
-
-
